@@ -1,0 +1,8 @@
+.vscode
+node_modules
+__pycache__
+*.pyc
+bin
+obj
+*.db
+*.sqlite3
